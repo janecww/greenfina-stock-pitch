@@ -1,2 +1,2 @@
-# greenfina-stock-pitch
-A trading pitch on a stock with a specific focus on its sustainability/green aspects
+# Stock Pitch on BYD Co. Ltd. (1211.HK)
+A long recommendation on BYD (1211.HK) at a six-month target price of 304 HKD is proposed, which implies a 29% upside from the stock’s current price 235 HKD. There are three upside drivers. With China’s reopening, a strong demand from, and more export opportunities to foreign countries are expected. In addition, it is believed the company’s vertical integration and diversified new energy products strengthen its operation and revenue streams. BYD’s well-established sustainability framework also aligns with China's 'go-green' ambition. For valuation, the sum-of-the-part approach is adopted. Three risks are identified: more fiercer competition in the Electric Vehicles (EVs) market, reputational risk stemming from sustainability practice, and product recall concern.
